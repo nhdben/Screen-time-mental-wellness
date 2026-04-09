@@ -31,8 +31,9 @@ breakdowns by work mode (remote, hybrid, in-person).
 
 ## Dashboard
 
+![Dashboard](Screen_Time_and_Mental_Wellness_Analysis_Dashboard.png)
 
-
+Download `ScreenTime-MentalWellness.pbix` to explore the interactive dashboard in Power BI Desktop.
 ---
 
 ## Dataset
